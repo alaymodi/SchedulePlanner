@@ -1,0 +1,3 @@
+
+error handling
+when lists are empty
